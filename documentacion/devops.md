@@ -15,3 +15,5 @@
   - Infraestructura como código: Tratar la infraestructura de la misma manera que el código de aplicación, lo que facilita la administración y la replicación de entornos.
 
   - Seguridad: Integrar la seguridad en todo el ciclo de vida del desarrollo de software (DevSecOps) para identificar y abordar vulnerabilidades de manera proactiva.
+
+![image](/img/devops.png)
