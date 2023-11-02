@@ -1,6 +1,7 @@
 # Devops
 
 ## Índice
+![Devops](/img/DevOps-Engineer.jpg)
 
 1.- Introducción.
 
