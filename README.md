@@ -15,5 +15,8 @@
 
 ## Referencia
 
+- [UNIR](https://www.unir.net/ingenieria/revista/administrador-sistemas/)
+- [Wikipedia](https://es.wikipedia.org/wiki/Wikipedia:Portada)
 
 ## Licencia
+
